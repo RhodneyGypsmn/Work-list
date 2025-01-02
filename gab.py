@@ -25,3 +25,4 @@ print(f"You were born {birth_year}, and your favorite color is {favorite_color}.
 print(f"It's great that you enjoy {hobby}. Doing what you love keeps happy and creative!")
 #Provide an inspirational message based on their hobby.
 print(f"Remember, {name}, every moment you spend on {hobby} is a step forwards mastering it. keep going!")
+print("AM NUMBER ONE SUPER STAR")
